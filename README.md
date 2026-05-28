@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Fixed Working Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=200&section=header&text=Chirag%20Sharma&fontSize=55&fontColor=FFFFFF" alt="Header" width="100%"/>
+  <!-- Modern Aesthetic Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F2937,111827,1F2937&height=220&section=header&text=Chirag%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -38,7 +38,7 @@
 
 <br>
 
-**SecurePass** — Immersive 3D password vault with stunning visual experience.
+**SecurePass** — Immersive 3D password vault with stunning visuals.
 
 **[→ Explore SecurePass →](https://github.com/ch-irax/SecurePass)**
 
@@ -63,17 +63,22 @@
 
 ### 🌌 About Me
 
-- Passionate about **cybersecurity**, **3D web experiences**, and **pixel-perfect design**
+- Passionate about **cybersecurity**, **3D web experiences**, and beautiful interfaces
 - Based in **Bengaluru, India**
-- Always exploring new technologies and creative coding
 
 ---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ch-irax&theme=dark&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies" width="95%"/>
+</div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch-irax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=tokyonight&hide_border=true" height="195" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ch-irax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache=0" height="195" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=tokyonight&hide_border=true&cache=0" height="195" alt="Streak"/>
 </div>
 
 ### 🔥 Contribution Activity
