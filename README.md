@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Strong Green + Black Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,45:166534,100:0A0A0A&height=235&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=47" alt="Header" width="100%"/>
+  <!-- Glassy Grey Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F2937,334155,1F2937&height=235&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=47" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -68,21 +68,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ch-irax&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" 
-       alt="GitHub Achievements" 
-       width="95%"/>
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch-irax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache=0" height="195" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=tokyonight&hide_border=true&cache=0" height="195" alt="Streak"/>
-</div>
-
 ### 🔥 Contribution Activity
 
 <div align="center">
@@ -95,5 +80,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=90&section=footer&text=Let's%20Build%20Something%20Elegant%20Together&fontSize=19&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1F2937&height=90&section=footer&text=Let's%20Build%20Something%20Elegant%20Together&fontSize=19&fontColor=FFFFFF" width="100%"/>
 </div>
