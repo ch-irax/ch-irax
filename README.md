@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Transparent Glassy Grey Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F293760,33415580,1F293760&height=235&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=47" alt="Header" width="100%"/>
+  <!-- Glassy Transparent Grey Header (Stronger Effect) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F2937B0,475569A0,1F2937B0&height=240&section=header&text=Chirag%20Sharma&fontSize=53&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
 </div>
 
 <br>
