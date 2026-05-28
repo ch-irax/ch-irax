@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A0A0A&height=210&section=header&text=Chirag%20Sharma&fontSize=58&fontColor=FFFFFF&animation=blink&fontAlignY=45" alt="Header" width="100%"/>
+  <!-- Fixed Working Header -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=200&section=header&text=Chirag%20Sharma&fontSize=55&fontColor=FFFFFF" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -81,11 +82,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch-irax&theme=dracula&hide_border=true&area=true&area_color=22C55E&color=22C55E&line=22C55E&point=22C55E&bg_color=0A0A0A" 
        alt="Contribution Graph" 
        width="95%" 
-       style="border-radius: 12px; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.15);"/>
+       style="border-radius: 12px; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.2);"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A0A0A&height=95&section=footer&text=Let's%20Build%20Something%20Elegant%20Together&fontSize=19&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=90&section=footer&text=Let's%20Build%20Something%20Elegant%20Together&fontSize=19&fontColor=FFFFFF" width="100%"/>
 </div>
