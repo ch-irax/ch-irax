@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>🦇 I AM CH-IRAX</h1>
+  <h1> I AM CHIRAG </h1>
   <h3><strong>The Digital Vigilante</strong></h3>
   <p><em>Protecting the web. One secure line of code at a time.</em></p>
 </div>
