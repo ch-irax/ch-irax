@@ -28,6 +28,8 @@ Passionate developer based in Bengaluru, specializing in **cybersecurity**, **3D
   <img src=".radme-icon-ts-92.png" alt="TypeScript" height="92" />
   <img src=".radme-icon-threejs-92.png" alt="Three.js" height="92" />
   <img src=".radme-icon-tailwind-92.png" alt="Tailwind CSS" height="92" />
+  <img src=".radme-icon-sass-92.png" alt="Sass" height="92" />
+  <img src=".radme-icon-babel-92.png" alt="Babel" height="92" />
   <img src=".radme-icon-nodejs-92.png" alt="Node.js" height="92" />
   <img src=".radme-icon-vercel-92.png" alt="Vercel" height="92" />
 </div>
